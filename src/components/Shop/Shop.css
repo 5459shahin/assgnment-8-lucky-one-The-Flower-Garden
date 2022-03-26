@@ -38,3 +38,9 @@
     }
     
 }
+@media screen and (max-:1100px) {
+    .products-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}

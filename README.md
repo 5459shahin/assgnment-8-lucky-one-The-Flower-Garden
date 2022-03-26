@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# https://nimble-kleicha-b4d01a.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This lucky-one-5459shahin assainment [Create React App](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://nimble-kleicha-b4d01a.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
