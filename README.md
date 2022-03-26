@@ -1,6 +1,6 @@
-## [netlify live link] https://nimble-kleicha-b4d01a.netlify.app/
+## netlify live link https://nimble-kleicha-b4d01a.netlify.app/
 
- ## Repository live link [assainment8](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
+ ## Repository live link [lucky-one-5459shahin](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
 
 ## Available Scripts
 
