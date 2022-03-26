@@ -21,9 +21,9 @@
     color: yellowgreen;
 }
 
-/* @media screen and (max-width:600px) {
+@media screen and (max-width:600px) {
     .header{ 
-        width: 100%;
+        width: 75%;
     }
     
-} */
+} 
