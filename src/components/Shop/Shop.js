@@ -38,13 +38,12 @@ const Shop = () => {
                 
             </div>
             <div className="cart-container">
-                
-
               <h3>Order summary</h3>
               {
                     cart.map(product => <Cart cart={product}></Cart>)
                 }
-              
+            <button className='order-btn'>Choose 1 For Me</button> <br />
+            <button className='order-btn'>Choose Again</button>
             </div>
         </div>
     );
