@@ -30,6 +30,13 @@
 .shop-name{
   text-align: center;
   color: #4b5b5f;
+  align-items: center;
+}
+.shop-name p{
+  width: 80%;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
 }
 
 @keyframes App-logo-spin {
