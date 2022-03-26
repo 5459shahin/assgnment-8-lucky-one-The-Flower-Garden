@@ -20,3 +20,10 @@
 .header a:hover{
     color: yellowgreen;
 }
+
+/* @media screen and (max-width:600px) {
+    .header{ 
+        width: 100%;
+    }
+    
+} */
