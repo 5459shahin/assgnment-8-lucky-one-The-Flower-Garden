@@ -1,15 +1,15 @@
 .product{
-    width: 300px;
-    height: 510px;
+    width: 220px;
+    height: 450px;
     border-radius: 10px;
     background-color: #e9e3ee;
-    margin: 7px;
+    /* margin: 7px; */
     position: relative;
 }
 
 .product img{
-    width: 286px;
-    height: 286px;
+    width: 200px;
+    height: 280px;
     border-radius: 10px;
     margin: 7px;
     margin-top: 7px ;

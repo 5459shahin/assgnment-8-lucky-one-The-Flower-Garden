@@ -1,11 +1,16 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    border: 1px solid red;
+    width: 80%;
+    margin: 0 auto;
+    
 }
 .products-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 50px;
+    /* column-gap: 30px; */
     margin: 80px 40px;
 }
 
@@ -16,9 +21,9 @@
     /* width: 300px; */
     padding-bottom: 10px;
     padding-right: 5px;
-    right: 0;
+    right: 80px;
     top: 80px;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 .cart-container h3{
     text-align: center;
@@ -38,15 +43,7 @@
     background-color: orange;
 }
 
-/*  @media screen and (max-width:1100) {
-    .shop-container{
-        grid-template-columns: repeat(2, 1fr);
-    }
-    .products-container{ 
-        grid-template-columns: 2fr );
-    }
-    
-}  */
+
 @media screen and (max-width:768px) {
     .products-container{ 
         grid-template-columns: 1fr;
