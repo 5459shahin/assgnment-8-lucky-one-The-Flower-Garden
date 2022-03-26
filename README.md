@@ -1,8 +1,8 @@
 # https://nimble-kleicha-b4d01a.netlify.app/
 
-This lucky-one-5459shahin assainment [Create React App](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
+ assainmentha [Create React App](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
 
-## Available Scripts
+## Repository live link
 
 In the project directory, you can run:
 
