@@ -10,6 +10,7 @@ function App() {
   return (
     <div>
       <Header></Header>
+      <h1>The Flower Garden</h1>
       <Shop></Shop>
       
     </div>
