@@ -1,15 +1,15 @@
-# https://nimble-kleicha-b4d01a.netlify.app/
+## [netlify live link] https://nimble-kleicha-b4d01a.netlify.app/
 
- ## assainmentha [assainment8](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
+ ## Repository live link [assainment8](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
 
-## Repository live link[Create React App](https://github.com/Programming-Hero-Web-Course4/lucky-one-5459shahin).
+## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [https://nimble-kleicha-b4d01a.netlify.app/) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
