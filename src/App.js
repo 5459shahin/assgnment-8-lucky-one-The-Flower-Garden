@@ -25,7 +25,7 @@ function App() {
          The useState hook allows us declare one or more state variables in function components. Under the hood, React keeps track of these state variables and ensures they stay up-to-date on subsequent re-renders of the component (trust me when I say this — that is some JavaScript closures magic happening there)
 
        </p>
-       <h1>props vs state?</h1>
+       <h4>props vs state?</h4>
        <p><b>answer :</b>
           In a React component, props are variables passed to it by its parent component. State on the other hand is still variables, but directly initialized and managed by the component.
          Passing state as props from parent to child components is a core concept of React. By keeping state in only a few components and passing it to as many children as needed in the form of props, you will be able to write code that is easier to maintain, and you will thank yourself down the road
